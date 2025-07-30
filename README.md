@@ -28,7 +28,7 @@
 
 <h2>📦 Installation</h2>
 <pre><code>
-git clone [https://github.com/apanwarr/Sorting-Visualizer.git]
+git clone https://github.com/apanwarr/Sorting-Visualizer.git
 cd sorting-visualizer
 npm install
 npm start
