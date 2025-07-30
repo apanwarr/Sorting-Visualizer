@@ -31,7 +31,7 @@
 git clone https://github.com/apanwarr/Sorting-Visualizer.git
 cd sorting-visualizer
 npm install
-npm start
+npm run dev Or npm start
 </code></pre>
 
 <h2>📍 Live Demo</h2>
