@@ -23,7 +23,7 @@
 <h2>📸 Screenshots</h2>
 <p>
   <img width="1916" height="863" alt="image" src="https://github.com/user-attachments/assets/8680c470-8b0c-4310-9d6d-f3f891995ede" />
-  <img width="1887" height="815" alt="image" src="https://github.com/user-attachments/assets/215be1c8-9361-498d-be88-c26d1b7b1af2" />
+  <img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/a9e22bc3-a325-4dce-9044-d79de1496e02" />
 </p>
 
 <h2>📦 Installation</h2>
