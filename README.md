@@ -22,7 +22,8 @@
 
 <h2>📸 Screenshots</h2>
 <p>
-  <em>Add screenshots of your application here</em>
+  <img width="1916" height="863" alt="image" src="https://github.com/user-attachments/assets/8680c470-8b0c-4310-9d6d-f3f891995ede" />
+  <img width="1887" height="815" alt="image" src="https://github.com/user-attachments/assets/215be1c8-9361-498d-be88-c26d1b7b1af2" />
 </p>
 
 <h2>📦 Installation</h2>
