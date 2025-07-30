@@ -36,7 +36,7 @@ npm run dev Or npm start
 
 <h2>📍 Live Demo</h2>
 <p>
-  <a href="https://your-live-link.com" target="_blank">🔗 View Live Demo</a>
+  <a href="https://sorting-visualizer-gvbama.vercel.app" target="_blank">🔗 View Live Demo</a>
 </p>
 
 <h2>📄 License</h2>
